@@ -1,0 +1,1409 @@
+[{
+  "_id": {
+    "$oid": "67acde782cdba35688bf8eb5"
+  },
+  "vehicle_title": "Maruti Suzuki Swift",
+  "brand": "Maruti Suzuki",
+  "type": "car",
+  "vehicle_overview": "A popular hatchback known for its fuel efficiency and stylish design.",
+  "pricePerHour": 250,
+  "pricePerDay": 1800,
+  "leasingPrice": 45000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": true,
+    "sunroof": false,
+    "rearCamera": true
+  },
+  "images": [
+    "https://media.gettyimages.com/id/465099530/photo/suzuki-swift-compact-hatchback-car.webp?s=2048x2048&w=gi&k=20&c=put42HmG-Lt4k2K_bsrv9DaO5_xUGsvLa2izxx9AE5U=",
+    "https://media.gettyimages.com/id/1277433626/photo/suzuki-swift-on-a-street.webp?s=2048x2048&w=gi&k=20&c=V-VufB_RiXqHHhx_GriMmaQPxg98k-AjAwkgIxYOD2Q="
+  ],
+  "description": "The Maruti Suzuki Swift offers a perfect blend of performance and affordability.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acde782cdba35688bf8eb6"
+  },
+  "vehicle_title": "Hyundai Creta",
+  "brand": "Hyundai",
+  "type": "car",
+  "vehicle_overview": "A compact SUV with premium features and a powerful engine.",
+  "pricePerHour": 400,
+  "pricePerDay": 3000,
+  "leasingPrice": 70000,
+  "fuelType": "Diesel",
+  "modelYear": 2024,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": true,
+    "gps": true,
+    "sunroof": true,
+    "rearCamera": true
+  },
+  "images": [
+    "https://images.pexels.com/photos/11158776/pexels-photo-11158776.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/17183439/pexels-photo-17183439/free-photo-of-photo-of-new-cars-parked-in-front-of-a-car-dealership.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  ],
+  "description": "The Hyundai Creta is a stylish and feature-rich SUV ideal for city drives and long trips.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acde782cdba35688bf8eb7"
+  },
+  "vehicle_title": "Tata Harrier",
+  "brand": "Tata Motors",
+  "type": "car",
+  "vehicle_overview": "A robust SUV with a powerful diesel engine and futuristic design.",
+  "pricePerHour": 450,
+  "pricePerDay": 3500,
+  "leasingPrice": 75000,
+  "fuelType": "Diesel",
+  "modelYear": 2023,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": true,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": true,
+    "gps": true,
+    "sunroof": true,
+    "rearCamera": true
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/139139/harrier-facelift-exterior-left-front-three-quarter-18.jpeg?isig=0&q=80",
+    "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/139139/harrier-facelift-exterior-front-view-3.jpeg?isig=0&q=80"
+  ],
+  "description": "The Tata Harrier is known for its muscular build and premium interiors.",
+  "isFeatured": true,
+  "transmission": "manual"
+},
+{
+  "_id": {
+    "$oid": "67acde782cdba35688bf8eb8"
+  },
+  "vehicle_title": "Mahindra XUV700",
+  "brand": "Mahindra",
+  "type": "car",
+  "vehicle_overview": "A high-tech SUV with ADAS and premium safety features.",
+  "pricePerHour": 500,
+  "pricePerDay": 4000,
+  "leasingPrice": 80000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 7,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": true,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": true,
+    "gps": true,
+    "sunroof": true,
+    "rearCamera": true
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/40432/scorpio-n-exterior-front-view.jpeg?isig=0&q=80",
+    "https://imgd-ct.aeplcdn.com/1056x660/n/cw/ec/42355/xuv700-exterior-front-view-2.jpeg?isig=0&q=80"
+  ],
+  "description": "The Mahindra XUV700 offers cutting-edge technology and superior comfort.",
+  "transmission": "manual",
+  "isFeatured": false,
+  "updatedAt": {
+    "$date": "2025-02-19T09:37:38.207Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67acde782cdba35688bf8eb9"
+  },
+  "vehicle_title": "Honda City",
+  "brand": "Honda",
+  "type": "car",
+  "vehicle_overview": "A luxurious sedan known for its smooth drive and premium feel.",
+  "pricePerHour": 350,
+  "pricePerDay": 2500,
+  "leasingPrice": 60000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": true,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": true,
+    "gps": true,
+    "sunroof": false,
+    "rearCamera": true
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/9w67bab_1649269.jpg?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/ejn7bab_1649267.jpg?q=80"
+  ],
+  "description": "The Honda City is a premium sedan that combines elegance with outstanding performance.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acde782cdba35688bf8eba"
+  },
+  "vehicle_title": "Toyota Fortuner",
+  "brand": "Toyota",
+  "type": "car",
+  "vehicle_overview": "A rugged SUV with a commanding road presence and off-road capability.",
+  "pricePerHour": 600,
+  "pricePerDay": 5000,
+  "leasingPrice": 100000,
+  "fuelType": "Diesel",
+  "modelYear": 2024,
+  "seatingCapacity": 7,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": true,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": true,
+    "gps": true,
+    "sunroof": true,
+    "rearCamera": true
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/44709/fortuner-exterior-left-front-three-quarter.jpeg?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/44709/fortuner-facelift-exterior-rear-view.jpeg?q=80"
+  ],
+  "description": "The Toyota Fortuner is the ultimate SUV for adventure and luxury.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acde782cdba35688bf8ebb"
+  },
+  "vehicle_title": "MG Hector",
+  "brand": "MG",
+  "type": "car",
+  "vehicle_overview": "A tech-loaded SUV with AI-powered features and a spacious cabin.",
+  "pricePerHour": 420,
+  "pricePerDay": 3400,
+  "leasingPrice": 75000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": true,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": true,
+    "gps": true,
+    "sunroof": true,
+    "rearCamera": true
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/130583/hector-exterior-left-front-three-quarter.jpeg?isig=0&q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/139311/hector-right-front-three-quarter-2.jpeg?isig=0&q=80"
+  ],
+  "description": "The MG Hector is a stylish and AI-powered SUV with advanced safety features.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acdf774dc60a56bba0a365"
+  },
+  "vehicle_title": "Royal Enfield Classic 350",
+  "brand": "Royal Enfield",
+  "type": "bike",
+  "vehicle_overview": "A legendary cruiser bike known for its retro charm and powerful engine.",
+  "pricePerHour": 150,
+  "pricePerDay": 1000,
+  "leasingPrice": 25000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": false,
+    "powerDoorLocks": false,
+    "antiLockBrakingSystem": false,
+    "brakeAssist": false,
+    "powerSteering": false,
+    "driverAirBag": false,
+    "passengerAirBag": false,
+    "powerWindows": false,
+    "CDPlayer": false,
+    "centralLocking": false,
+    "crashSensor": false,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/cw/ec/183389/classic-350-right-front-three-quarter-2.jpeg?isig=0&q=80&wm=3",
+    "https://imgd.aeplcdn.com/1056x594/n/cw/ec/183389/classic-350-right-side-view-62.jpeg?isig=0&q=80&wm=3"
+  ],
+  "description": "The Royal Enfield Classic 350 is an iconic bike with a vintage design and thumping engine.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acdf774dc60a56bba0a366"
+  },
+  "vehicle_title": "Bajaj Pulsar NS200",
+  "brand": "Bajaj",
+  "type": "bike",
+  "vehicle_overview": "A sporty and aggressive street bike with a high-performance engine.",
+  "pricePerHour": 120,
+  "pricePerDay": 900,
+  "leasingPrice": 22000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": false,
+    "powerDoorLocks": false,
+    "antiLockBrakingSystem": false,
+    "brakeAssist": false,
+    "powerSteering": false,
+    "driverAirBag": false,
+    "passengerAirBag": false,
+    "powerWindows": false,
+    "CDPlayer": false,
+    "centralLocking": false,
+    "crashSensor": false,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/bajaj-select-model-glossy-ebony-black-1709101661264.png?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/bajaj-select-model-metallic-pearl-white-1709101657744.png?q=80"
+  ],
+  "description": "The Bajaj Pulsar NS200 is a powerful and stylish bike, loved by young riders.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acdf774dc60a56bba0a367"
+  },
+  "vehicle_title": "TVS Apache RTR 160",
+  "brand": "TVS",
+  "type": "bike",
+  "vehicle_overview": "A performance-oriented commuter bike with sharp looks.",
+  "pricePerHour": 100,
+  "pricePerDay": 800,
+  "leasingPrice": 20000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/tvs-select-model-gloss-black-1610973721888.jpg?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/tvs-select-model-pearl-white-1610973769724.jpg?q=80"
+  ],
+  "description": "The TVS Apache RTR 160 is a thrilling ride with race-inspired technology.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acdf774dc60a56bba0a368"
+  },
+  "vehicle_title": "Hero Splendor Plus",
+  "brand": "Hero",
+  "type": "bike",
+  "vehicle_overview": "India's most fuel-efficient and reliable commuter bike.",
+  "pricePerHour": 80,
+  "pricePerDay": 600,
+  "leasingPrice": 15000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/hero-select-model-black-and-accent-1706531462570.png?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/hero-select-model-black-grey-stripe-1706531424390.png?q=80"
+  ],
+  "description": "The Hero Splendor Plus is India's favorite budget-friendly commuter bike.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acdf774dc60a56bba0a369"
+  },
+  "vehicle_title": "KTM Duke 250",
+  "brand": "KTM",
+  "type": "bike",
+  "vehicle_overview": "A powerful streetfighter with aggressive styling and performance.",
+  "pricePerHour": 200,
+  "pricePerDay": 1500,
+  "leasingPrice": 35000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/pqc3teb_1778343.jpg?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/vmuuteb_1778337.jpg?q=80"
+  ],
+  "description": "The KTM Duke 250 is a beast of a bike, perfect for thrill-seekers.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acdf774dc60a56bba0a36a"
+  },
+  "vehicle_title": "Honda CB 350",
+  "brand": "Honda",
+  "type": "bike",
+  "vehicle_overview": "A premium retro bike with modern features and classic styling.",
+  "pricePerHour": 160,
+  "pricePerDay": 1200,
+  "leasingPrice": 28000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/honda-select-model-matte-crust-metallic-1700215590067.png?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/honda-select-model-matte-marshal-green-metallic-1700215573452.png?q=80"
+  ],
+  "description": "The Honda CB 350 is a blend of nostalgia and cutting-edge engineering.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67acdf774dc60a56bba0a36b"
+  },
+  "vehicle_title": "Suzuki Gixxer SF 250",
+  "brand": "Suzuki",
+  "type": "bike",
+  "vehicle_overview": "A fully faired sports bike with smooth handling and power.",
+  "pricePerHour": 180,
+  "pricePerDay": 1300,
+  "leasingPrice": 30000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/suzuki-select-model-metallic-matte-black-no-2-2023-1686037589247.png?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/suzuki-select-model-metallic-sonic-silvermetallic-triton-blue-2023-1686037570956.png?q=80"
+  ],
+  "description": "The Suzuki Gixxer SF 250 is a stylish and powerful sports bike.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0174dc60a56bba0a36c"
+  },
+  "vehicle_title": "Lamborghini Aventador",
+  "brand": "Lamborghini",
+  "type": "supercar",
+  "vehicle_overview": "A high-performance V12-powered Italian beast with aggressive aerodynamics.",
+  "pricePerHour": 5000,
+  "pricePerDay": 50000,
+  "leasingPrice": 1500000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": true,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": true,
+    "gps": true,
+    "sunroof": false,
+    "rearCamera": true
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/ec/79/85/9802/img/ol/Lamborghini-Aventador-Left-Front-Three-Quarter-52647.jpg?v=201711021421&q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/ec/79/85/9802/img/ol/Lamborghini-Aventador-Rear-view-52650.jpg?v=201711021421&q=80"
+  ],
+  "description": "The Lamborghini Aventador is the epitome of speed, style, and extreme performance.",
+  "transmission": "manual",
+  "isFeatured": true,
+  "updatedAt": {
+    "$date": "2025-02-25T06:18:01.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "67ace0174dc60a56bba0a36d"
+  },
+  "vehicle_title": "Ferrari SF90 Stradale",
+  "brand": "Ferrari",
+  "type": "supercar",
+  "vehicle_overview": "A plug-in hybrid supercar delivering breathtaking performance and innovation.",
+  "pricePerHour": 5500,
+  "pricePerDay": 52000,
+  "leasingPrice": 1600000,
+  "fuelType": "Hybrid",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://images.pexels.com/photos/14317474/pexels-photo-14317474.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "https://images.pexels.com/photos/12801154/pexels-photo-12801154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+  ],
+  "description": "The Ferrari SF90 Stradale redefines the boundaries of Ferrari’s innovation and performance.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0174dc60a56bba0a36e"
+  },
+  "vehicle_title": "McLaren 720S",
+  "brand": "McLaren",
+  "type": "supercar",
+  "vehicle_overview": "A lightweight, aerodynamically advanced supercar with a twin-turbo V8.",
+  "pricePerHour": 4800,
+  "pricePerDay": 48000,
+  "leasingPrice": 1400000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/95143/exterior-left-front-three-quarter.jpeg?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/bwe5i4a_1521695.jpg?q=80"
+  ],
+  "description": "The McLaren 720S offers unmatched agility and breathtaking speed.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0174dc60a56bba0a36f"
+  },
+  "vehicle_title": "Bugatti Chiron",
+  "brand": "Bugatti",
+  "type": "supercar",
+  "vehicle_overview": "One of the fastest cars in the world, powered by a quad-turbo W16 engine.",
+  "pricePerHour": 12000,
+  "pricePerDay": 120000,
+  "leasingPrice": 3000000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "chiron1.jpg",
+    "chiron2.jpg"
+  ],
+  "description": "The Bugatti Chiron is a marvel of engineering, delivering an insane 1500 horsepower.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0174dc60a56bba0a370"
+  },
+  "vehicle_title": "Porsche 911 Turbo S",
+  "brand": "Porsche",
+  "type": "supercar",
+  "vehicle_overview": "A perfect blend of luxury, performance, and reliability.",
+  "pricePerHour": 4000,
+  "pricePerDay": 40000,
+  "leasingPrice": 1200000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/w7supsa_1476834.jpg?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/cw/ec/39232/Porsche-992-911-Rear-view-154387.jpg?wm=0&q=80"
+  ],
+  "description": "The Porsche 911 Turbo S delivers thrilling acceleration with everyday usability.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0174dc60a56bba0a371"
+  },
+  "vehicle_title": "Aston Martin DBS Superleggera",
+  "brand": "Aston Martin",
+  "type": "supercar",
+  "vehicle_overview": "A grand tourer with immense power and timeless British design.",
+  "pricePerHour": 4500,
+  "pricePerDay": 45000,
+  "leasingPrice": 1300000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/9ph54bb_1698099.jpg?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/pu5r4bb_1698083.jpg?q=80"
+  ],
+  "description": "The Aston Martin DBS Superleggera is an elegant yet ferocious grand tourer.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0174dc60a56bba0a372"
+  },
+  "vehicle_title": "Lexus LFA",
+  "brand": "Lexus",
+  "type": "supercar",
+  "vehicle_overview": "A legendary V10-powered supercar with an unmatched engine sound.",
+  "pricePerHour": 4700,
+  "pricePerDay": 47000,
+  "leasingPrice": 1350000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/82/Lexus_LFA_001.JPG"
+  ],
+  "description": "The Lexus LFA is a rare and highly sought-after supercar with a legendary status.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0c74dc60a56bba0a373"
+  },
+  "vehicle_title": "Tata Nexon",
+  "brand": "Tata Motors",
+  "type": "car",
+  "vehicle_overview": "A compact SUV with a 5-star safety rating and modern features.",
+  "pricePerHour": 350,
+  "pricePerDay": 2800,
+  "leasingPrice": 65000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/daabmbb_1688461.jpg?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/hfcbmbb_1688463.jpg?q=80"
+  ],
+  "description": "The Tata Nexon is a feature-packed SUV with excellent safety and affordability.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0c74dc60a56bba0a374"
+  },
+  "vehicle_title": "Tata Altroz",
+  "brand": "Tata Motors",
+  "type": "car",
+  "vehicle_overview": "A premium hatchback with advanced safety and futuristic design.",
+  "pricePerHour": 300,
+  "pricePerDay": 2500,
+  "leasingPrice": 60000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/dvkreeb_1760173.png?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/kc8reeb_1760171.png?q=80"
+  ],
+  "description": "The Tata Altroz offers class-leading safety and a premium experience in the hatchback segment.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0c74dc60a56bba0a375"
+  },
+  "vehicle_title": "Tata Punch",
+  "brand": "Tata Motors",
+  "type": "car",
+  "vehicle_overview": "A micro-SUV designed for city driving with an aggressive stance.",
+  "pricePerHour": 280,
+  "pricePerDay": 2300,
+  "leasingPrice": 58000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/39015/punch-exterior-left-front-three-quarter-4.jpeg?isig=0&q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/39015/punch-exterior-left-front-three-quarter-2.jpeg?isig=0&q=80"
+  ],
+  "description": "The Tata Punch is a compact SUV offering a perfect mix of style, safety, and performance.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0c74dc60a56bba0a376"
+  },
+  "vehicle_title": "Tata Safari",
+  "brand": "Tata Motors",
+  "type": "car",
+  "vehicle_overview": "A premium 7-seater SUV with a powerful engine and luxurious interiors.",
+  "pricePerHour": 450,
+  "pricePerDay": 3500,
+  "leasingPrice": 75000,
+  "fuelType": "Diesel",
+  "modelYear": 2024,
+  "seatingCapacity": 7,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/a4anqbb_1693411.jpg?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/138895/safari-facelift-exterior-left-front-three-quarter-2.jpeg?isig=0&q=80"
+  ],
+  "description": "The Tata Safari is a luxurious SUV with a commanding presence and robust performance.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace0c74dc60a56bba0a377"
+  },
+  "vehicle_title": "Tata Tigor",
+  "brand": "Tata Motors",
+  "type": "car",
+  "vehicle_overview": "A compact sedan with a stylish design and efficient performance.",
+  "pricePerHour": 320,
+  "pricePerDay": 2600,
+  "leasingPrice": 62000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/ssadv9b_1808221.jpg?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/41160/tigor-exterior-left-front-three-quarter.jpeg?isig=0&q=80"
+  ],
+  "description": "The Tata Tigor is an affordable yet stylish sedan with excellent fuel efficiency.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1404dc60a56bba0a378"
+  },
+  "vehicle_title": "Toyota Fortuner",
+  "brand": "Toyota",
+  "type": "car",
+  "vehicle_overview": "A premium and rugged SUV known for its powerful engine and off-road capabilities.",
+  "pricePerHour": 600,
+  "pricePerDay": 5000,
+  "leasingPrice": 100000,
+  "fuelType": "Diesel",
+  "modelYear": 2024,
+  "seatingCapacity": 7,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": true,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": true,
+    "gps": true,
+    "sunroof": true,
+    "rearCamera": true
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/44709/fortuner-facelift-exterior-rear-view.jpeg?q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/44709/fortuner-exterior-left-front-three-quarter.jpeg?q=80"
+  ],
+  "description": "The Toyota Fortuner is a robust SUV that delivers outstanding performance on highways and off-road terrains.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1404dc60a56bba0a379"
+  },
+  "vehicle_title": "Toyota Glanza",
+  "brand": "Toyota",
+  "type": "car",
+  "vehicle_overview": "A stylish and fuel-efficient hatchback packed with modern features.",
+  "pricePerHour": 250,
+  "pricePerDay": 2000,
+  "leasingPrice": 50000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/112839/glanza-exterior-left-front-three-quarter-2.jpeg?isig=0&q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/112839/glanza-exterior-left-rear-three-quarter.jpeg?isig=0&q=80"
+  ],
+  "description": "The Toyota Glanza is an elegant hatchback offering great mileage and a smooth driving experience.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1404dc60a56bba0a37a"
+  },
+  "vehicle_title": "Toyota Camry",
+  "brand": "Toyota",
+  "type": "car",
+  "vehicle_overview": "A luxurious hybrid sedan that combines performance with eco-friendly efficiency.",
+  "pricePerHour": 500,
+  "pricePerDay": 4500,
+  "leasingPrice": 95000,
+  "fuelType": "Hybrid",
+  "modelYear": 2024,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/192445/toyota-camry-next-generation-right-front-three-quarter.jpeg?isig=0&q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/192443/camry-exterior-left-front-three-quarter-16.jpeg?isig=0&q=80"
+  ],
+  "description": "The Toyota Camry is a premium hybrid sedan offering luxury, efficiency, and advanced technology.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1404dc60a56bba0a37b"
+  },
+  "vehicle_title": "Toyota Urban Cruiser",
+  "brand": "Toyota",
+  "type": "car",
+  "vehicle_overview": "A compact SUV with a sporty look and modern technology.",
+  "pricePerHour": 350,
+  "pricePerDay": 2700,
+  "leasingPrice": 68000,
+  "fuelType": "Petrol",
+  "modelYear": 2023,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/124027/urban-cruiser-hyryder-exterior-left-rear-three-quarter-2.jpeg?isig=0&q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/124027/urban-cruiser-hyryder-exterior-left-side-view-2.jpeg?isig=0&q=80"
+  ],
+  "description": "The Toyota Urban Cruiser is a stylish, compact SUV with great fuel efficiency and safety features.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1404dc60a56bba0a37c"
+  },
+  "vehicle_title": "Toyota Hilux",
+  "brand": "Toyota",
+  "type": "car",
+  "vehicle_overview": "A tough and versatile pickup truck designed for both work and adventure.",
+  "pricePerHour": 550,
+  "pricePerDay": 4800,
+  "leasingPrice": 98000,
+  "fuelType": "Diesel",
+  "modelYear": 2024,
+  "seatingCapacity": 5,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/109265/hilux-exterior-left-front-three-quarter-2.jpeg?isig=0&q=80",
+    "https://imgd-ct.aeplcdn.com/664x415/n/cw/ec/109329/hilux-left-front-three-quarter.jpeg?isig=0&q=80"
+  ],
+  "description": "The Toyota Hilux is a rugged and durable pickup truck built for tough road conditions and heavy-duty tasks.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1aa4dc60a56bba0a37d"
+  },
+  "vehicle_title": "Royal Enfield Classic 350",
+  "brand": "Royal Enfield",
+  "type": "bike",
+  "vehicle_overview": "A retro-styled cruiser with a refined engine and iconic design.",
+  "pricePerHour": 150,
+  "pricePerDay": 1200,
+  "leasingPrice": 30000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": false,
+    "powerDoorLocks": false,
+    "antiLockBrakingSystem": false,
+    "brakeAssist": false,
+    "powerSteering": false,
+    "driverAirBag": false,
+    "passengerAirBag": false,
+    "powerWindows": false,
+    "CDPlayer": false,
+    "centralLocking": false,
+    "crashSensor": false,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/n97qleb_1768245.jpg?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/iv5qleb_1768253.jpg?q=80"
+  ],
+  "description": "The Royal Enfield Classic 350 is a perfect blend of vintage aesthetics and modern technology.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1aa4dc60a56bba0a37e"
+  },
+  "vehicle_title": "Royal Enfield Meteor 350",
+  "brand": "Royal Enfield",
+  "type": "bike",
+  "vehicle_overview": "A cruiser bike designed for long-distance comfort and effortless riding.",
+  "pricePerHour": 180,
+  "pricePerDay": 1400,
+  "leasingPrice": 35000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/bwarseb_1777261.jpg?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/eshqseb_1777239.jpg?q=80"
+  ],
+  "description": "The Royal Enfield Meteor 350 is a refined cruiser offering smooth performance and reliability.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1aa4dc60a56bba0a37f"
+  },
+  "vehicle_title": "Royal Enfield Interceptor 650",
+  "brand": "Royal Enfield",
+  "type": "bike",
+  "vehicle_overview": "A powerful twin-cylinder motorcycle with a retro-classic appeal.",
+  "pricePerHour": 250,
+  "pricePerDay": 1800,
+  "leasingPrice": 45000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/i356seb_1777193.jpg?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/ovv6seb_1777199.jpg?q=80"
+  ],
+  "description": "The Royal Enfield Interceptor 650 is a modern-classic motorcycle known for its power and agility.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1aa4dc60a56bba0a380"
+  },
+  "vehicle_title": "Royal Enfield Himalayan",
+  "brand": "Royal Enfield",
+  "type": "bike",
+  "vehicle_overview": "A rugged adventure bike built for off-road challenges and long journeys.",
+  "pricePerHour": 220,
+  "pricePerDay": 1600,
+  "leasingPrice": 40000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/royal-enfield-select-model-salte-himalayan-salt-1698908633860.png?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/royal-enfield-select-model-kaza-brown-1698908621684.png?q=80"
+  ],
+  "description": "The Royal Enfield Himalayan is a versatile adventure tourer designed for all terrains.",
+  "transmission": "manual",
+  "isFeatured": false
+},
+{
+  "_id": {
+    "$oid": "67ace1aa4dc60a56bba0a381"
+  },
+  "vehicle_title": "Royal Enfield Bullet 350",
+  "brand": "Royal Enfield",
+  "type": "bike",
+  "vehicle_overview": "The iconic Bullet with a timeless design and thumping engine.",
+  "pricePerHour": 140,
+  "pricePerDay": 1100,
+  "leasingPrice": 28000,
+  "fuelType": "Petrol",
+  "modelYear": 2024,
+  "seatingCapacity": 2,
+  "features": {
+    "airConditioner": true,
+    "powerDoorLocks": true,
+    "antiLockBrakingSystem": true,
+    "brakeAssist": true,
+    "powerSteering": true,
+    "driverAirBag": true,
+    "passengerAirBag": true,
+    "powerWindows": true,
+    "CDPlayer": false,
+    "centralLocking": true,
+    "crashSensor": true,
+    "leatherSeats": false,
+    "gps": false,
+    "sunroof": false,
+    "rearCamera": false
+  },
+  "images": [
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/royal-enfield-select-model-military-red-1693557327598.png?q=80",
+    "https://imgd.aeplcdn.com/1056x594/n/bw/models/colors/royal-enfield-select-model-military-black-1693557333822.png?q=80"
+  ],
+  "description": "The Royal Enfield Bullet 350 is a classic bike known for its unmatched road presence and reliability.",
+  "transmission": "manual",
+  "isFeatured": false
+}]

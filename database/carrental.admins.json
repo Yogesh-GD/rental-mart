@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "674458bdd2ca713bff02853e"
+  },
+  "userName": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$2QZqJ.6Xz9wrIvzlcVtKo.pG0kMB9qjCnKu/Ugvo8YaYsU0v/br8K",
+  "createdAt": {
+    "$date": "2024-11-25T11:00:13.116Z"
+  },
+  "updatedAt": {
+    "$date": "2025-06-15T06:13:35.485Z"
+  },
+  "__v": 0,
+  "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzQ0NThiZGQyY2E3MTNiZmYwMjg1M2UiLCJpYXQiOjE3NDk5NjgwMTUsImV4cCI6MTc1MDgzMjAxNX0.6X4xs73tGq1NgzqIPLox0Td67Gv3oRmUDt9IGTP_4Os"
+}]

@@ -1,0 +1,510 @@
+[{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6af5"
+  },
+  "name": "Jaipur International Airport",
+  "type": "airport",
+  "address": "Airport Road, Sanganer, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.8242,
+    "longitude": 75.8122
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6af6"
+  },
+  "name": "Jaipur Railway Station",
+  "type": "railway_station",
+  "address": "Gopalbari, Jaipur, Rajasthan 302006",
+  "coordinates": {
+    "latitude": 26.9196,
+    "longitude": 75.7878
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6af7"
+  },
+  "name": "Sindhi Camp Bus Stand",
+  "type": "bus_stop",
+  "address": "Station Road, Sindhi Camp, Jaipur, Rajasthan 302001",
+  "coordinates": {
+    "latitude": 26.9201,
+    "longitude": 75.7954
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6af8"
+  },
+  "name": "Hawa Mahal",
+  "type": "tourist_spot",
+  "address": "Hawa Mahal Rd, Badi Choupad, Pink City, Jaipur, Rajasthan 302002",
+  "coordinates": {
+    "latitude": 26.9239,
+    "longitude": 75.8267
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6af9"
+  },
+  "name": "City Palace",
+  "type": "tourist_spot",
+  "address": "Gangori Bazaar, Pink City, Jaipur, Rajasthan 302002",
+  "coordinates": {
+    "latitude": 26.926,
+    "longitude": 75.8235
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6afa"
+  },
+  "name": "Amer Fort",
+  "type": "tourist_spot",
+  "address": "Devisinghpura, Amer, Jaipur, Rajasthan 302001",
+  "coordinates": {
+    "latitude": 26.9855,
+    "longitude": 75.8513
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6afb"
+  },
+  "name": "Jal Mahal",
+  "type": "tourist_spot",
+  "address": "Amer Road, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.9532,
+    "longitude": 75.8469
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6afc"
+  },
+  "name": "Jawahar Circle",
+  "type": "tourist_spot",
+  "address": "Jawahar Circle, Malviya Nagar, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.8435,
+    "longitude": 75.805
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6afd"
+  },
+  "name": "Malviya Nagar",
+  "type": "residential_area",
+  "address": "Malviya Nagar, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.85,
+    "longitude": 75.8069
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6afe"
+  },
+  "name": "Vaishali Nagar",
+  "type": "residential_area",
+  "address": "Vaishali Nagar, Jaipur, Rajasthan 302021",
+  "coordinates": {
+    "latitude": 26.9,
+    "longitude": 75.748
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6aff"
+  },
+  "name": "Mansarovar",
+  "type": "residential_area",
+  "address": "Mansarovar, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.8504,
+    "longitude": 75.7618
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b00"
+  },
+  "name": "Tonk Road",
+  "type": "commercial_area",
+  "address": "Tonk Road, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.8807,
+    "longitude": 75.7937
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b01"
+  },
+  "name": "Gaurav Tower",
+  "type": "shopping_mall",
+  "address": "Malviya Nagar, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.8505,
+    "longitude": 75.8096
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b02"
+  },
+  "name": "Nahargarh Fort",
+  "type": "tourist_spot",
+  "address": "Nahargarh Fort, Krishna Nagar, Brahampuri, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.9373,
+    "longitude": 75.8132
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b03"
+  },
+  "name": "Bapu Bazaar",
+  "type": "shopping_mall",
+  "address": "Bapu Bazaar, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.9148,
+    "longitude": 75.8202
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b04"
+  },
+  "name": "Triton Mall",
+  "type": "shopping_mall",
+  "address": "Triton Mall, Jhotwara, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.9183,
+    "longitude": 75.7486
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b05"
+  },
+  "name": "Albert Hall Museum",
+  "type": "museum",
+  "address": "Ram Niwas Garden, Ashok Nagar, Jaipur, Rajasthan 302007",
+  "coordinates": {
+    "latitude": 26.9124,
+    "longitude": 75.8144
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b06"
+  },
+  "name": "Raj Mandir Cinema",
+  "type": "entertainment",
+  "address": "C-16, Bhagwan Das Rd, Panch Batti, C Scheme, Jaipur, Rajasthan 302001",
+  "coordinates": {
+    "latitude": 26.9121,
+    "longitude": 75.8127
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b07"
+  },
+  "name": "World Trade Park",
+  "type": "shopping_mall",
+  "address": "JLN Marg, Malviya Nagar, Jaipur, Rajasthan 302017",
+  "coordinates": {
+    "latitude": 26.8526,
+    "longitude": 75.8103
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b08"
+  },
+  "name": "Birla Mandir",
+  "type": "temple",
+  "address": "Tilak Nagar, Jaipur, Rajasthan 302004",
+  "coordinates": {
+    "latitude": 26.9019,
+    "longitude": 75.81
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b09"
+  },
+  "name": "Galta Ji Temple",
+  "type": "temple",
+  "address": "Galta Ji, Jaipur, Rajasthan 302003",
+  "coordinates": {
+    "latitude": 26.9256,
+    "longitude": 75.8506
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b0a"
+  },
+  "name": "MI Road",
+  "type": "commercial_area",
+  "address": "MI Road, Jaipur, Rajasthan",
+  "coordinates": {
+    "latitude": 26.9145,
+    "longitude": 75.8066
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b0b"
+  },
+  "name": "Ajmeri Gate",
+  "type": "historical_place",
+  "address": "Ajmeri Gate, Jaipur, Rajasthan 302001",
+  "coordinates": {
+    "latitude": 26.9191,
+    "longitude": 75.8216
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b0c"
+  },
+  "name": "Chokhi Dhani",
+  "type": "cultural_village",
+  "address": "Chokhi Dhani Resort, Tonk Road, Jaipur, Rajasthan 303905",
+  "coordinates": {
+    "latitude": 26.7517,
+    "longitude": 75.8378
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b0d"
+  },
+  "name": "Sisodiya Rani Garden",
+  "type": "garden",
+  "address": "Agra Road, Jaipur, Rajasthan 302031",
+  "coordinates": {
+    "latitude": 26.9056,
+    "longitude": 75.8513
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b0e"
+  },
+  "name": "Jantar Mantar",
+  "type": "historical_place",
+  "address": "Gangori Bazaar, J.D.A. Market, Jaipur, Rajasthan 302002",
+  "coordinates": {
+    "latitude": 26.9248,
+    "longitude": 75.8243
+  },
+  "availability": {
+    "isPickupAvailable": false,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b0f"
+  },
+  "name": "Raja Park",
+  "type": "residential_area",
+  "address": "Raja Park, Jaipur, Rajasthan 302004",
+  "coordinates": {
+    "latitude": 26.9043,
+    "longitude": 75.8246
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b10"
+  },
+  "name": "Bani Park",
+  "type": "residential_area",
+  "address": "Bani Park, Jaipur, Rajasthan 302016",
+  "coordinates": {
+    "latitude": 26.9275,
+    "longitude": 75.8004
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b11"
+  },
+  "name": "Civil Lines",
+  "type": "residential_area",
+  "address": "Civil Lines, Jaipur, Rajasthan 302006",
+  "coordinates": {
+    "latitude": 26.9118,
+    "longitude": 75.7915
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+},
+{
+  "_id": {
+    "$oid": "67bda6692a2ddcdc348f6b12"
+  },
+  "name": "Gandhi Nagar Railway Station",
+  "type": "railway_station",
+  "address": "Gandhi Nagar, Jaipur, Rajasthan 302015",
+  "coordinates": {
+    "latitude": 26.8795,
+    "longitude": 75.8182
+  },
+  "availability": {
+    "isPickupAvailable": true,
+    "isDropoffAvailable": true
+  },
+  "isActive": true
+}]

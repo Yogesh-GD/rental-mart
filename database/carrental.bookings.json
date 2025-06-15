@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "67bc538f04c387f548b35e37"
+  },
+  "user": {
+    "$oid": "67af6622ef30581db4b54d8d"
+  },
+  "vehicle": {
+    "$oid": "67acde782cdba35688bf8eb7"
+  },
+  "status": "confirmed",
+  "pickup": {
+    "$oid": "67b9a224adde17199ffaea8b"
+  },
+  "dropoff": {
+    "$oid": "67b9a224adde17199ffaea8b"
+  },
+  "duration": 1,
+  "driverRequired": false,
+  "priceDetails": {
+    "basePrice": 3500,
+    "driverFee": 0,
+    "taxes": 630,
+    "additionalFees": 0,
+    "totalPrice": 4130
+  },
+  "paymentMethod": "UPI",
+  "advancePayment": {
+    "requiredAmount": 0,
+    "paidAmount": 1239,
+    "status": "paid"
+  },
+  "remainingAmount": 2891,
+  "paymentStatus": "paid",
+  "expiresAt": {
+    "$date": "2025-02-24T11:25:07.756Z"
+  },
+  "paymentRecords": [
+    {
+      "$oid": "67bc539404c387f548b35e3d"
+    }
+  ],
+  "cancellation": {
+    "refundedAmount": 0
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2025-02-24T11:10:07.775Z"
+  },
+  "updatedAt": {
+    "$date": "2025-02-24T11:10:12.589Z"
+  },
+  "__v": 1
+}]
