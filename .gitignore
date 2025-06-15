@@ -1,0 +1,69 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+dist-ssr/
+build/
+**/dist/
+**/build/
+
+# Local env files
+.env
+.env.*.local
+*.local
+
+# Vite cache
+.vite/
+**/.vite/
+
+# Editor directories and files
+.vscode/
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+Thumbs.db
+ehthumbs.db
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+
+# Parcel
+.cache/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Output from testing
+junit.xml
+test-results.xml
+
+# Optional lock files (if not using them for exact versioning)
+# Uncomment based on team preference
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
